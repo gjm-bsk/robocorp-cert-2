@@ -6,12 +6,12 @@ Documentation     Orders robots from RobotSpareBin Industries Inc.
 ...               Creates ZIP archive of the receipts and the images.
 
 Library    RPA.Browser.Playwright
-Library    Dialogs
+Library    RPA.Dialogs
 Library    RPA.HTTP
 Library    RPA.Tables
 Library    RPA.FileSystem
 Library    RPA.PDF
-
+Library    RPA.Archive
 
 *** Keywords ***
 Open the robot order website
@@ -20,8 +20,15 @@ Open the robot order website
     New Page       https://robotsparebinindustries.com/#/robot-order
     
 
+User Input Order URL
+    Create Form
+    Add Text Input    URL    Order-Url    Value=https://robotsparebinindustries.com/orders.csv
+    &{response}    Request Response
+    [Return]    ${response["Order-Url"]}
+
 Get Orders
-    RPA.HTTP.Download    url=https://robotsparebinindustries.com/orders.csv    overwrite=True    target_file=orders.csv
+    [Arguments]    ${Order_URL}
+    RPA.HTTP.Download    url=${Order_URL}    overwrite=True    target_file=orders.csv
     ${orders}=    Read table from CSV    orders.csv    header=True
     [Return]    ${orders}
 
@@ -98,10 +105,17 @@ Embed the robot screenshot to the receipt PDF file
 
     Add Files To PDF    ${files}    ${pdf}              
 
+ Create a ZIP file of the receipts
+    ${zip_file_name}=    Set Variable    ${OUTPUT_DIR}${/}receipts.zip
+    Archive Folder With Zip
+    ...    ${OUTPUT_DIR}${/}receipts
+    ...    ${zip_file_name}
+
 *** Tasks ***
 Order robots from RobotSpareBin Industries Inc
+    ${orderURL}=    User Input Order URL
     Open the robot order website
-    ${orders}=    Get orders
+    ${orders}=    Get orders    ${orderURL}
     FOR    ${row}    IN    @{orders}
         Close the annoying modal
         Fill the form    ${row}
@@ -112,8 +126,7 @@ Order robots from RobotSpareBin Industries Inc
         Embed the robot screenshot to the receipt PDF file    ${screenshot}    ${pdf}
         Go to order another robot
     END
-    # Create a ZIP file of the receipts
-    Pause Execution     Succes!
+    Create a ZIP file of the receipts
 
 Minimal task
     Log  Done.
