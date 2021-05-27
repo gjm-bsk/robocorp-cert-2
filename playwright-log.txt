@@ -1,10 +1,282 @@
-{"level":30,"time":"2021-05-26T07:39:55.514Z","pid":4136,"hostname":"DESKTOP-NK68GFO","msg":"Listening on 51958"}
-{"level":30,"time":"2021-05-26T07:40:04.667Z","pid":4136,"hostname":"DESKTOP-NK68GFO","msg":"Changed active context"}
-{"level":30,"time":"2021-05-26T07:40:04.830Z","pid":4136,"hostname":"DESKTOP-NK68GFO","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-26T07:40:04.830Z","pid":4136,"hostname":"DESKTOP-NK68GFO","msg":"Changed active page"}
-{"level":30,"time":"2021-05-26T07:40:07.169Z","pid":4136,"hostname":"DESKTOP-NK68GFO","msg":"Changed active context"}
-{"level":30,"time":"2021-05-26T07:40:07.169Z","pid":4136,"hostname":"DESKTOP-NK68GFO","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-26T07:40:07.169Z","pid":4136,"hostname":"DESKTOP-NK68GFO","msg":"Changed active page"}
-{"level":30,"time":"2021-05-26T07:40:07.189Z","pid":4136,"hostname":"DESKTOP-NK68GFO","msg":"Changed active context"}
-{"level":30,"time":"2021-05-26T07:40:07.189Z","pid":4136,"hostname":"DESKTOP-NK68GFO","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-26T07:40:07.189Z","pid":4136,"hostname":"DESKTOP-NK68GFO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-27T08:42:19.998Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Listening on 4550"}
+{"level":30,"time":"2021-05-27T08:42:45.450Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-27T08:42:45.512Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-27T08:42:45.516Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-27T08:42:46.551Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-27T08:42:46.552Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-27T08:42:48.013Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:48.019Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:42:48.025Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:48.028Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"3\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:42:48.155Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:48.124Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-09MO0P81A</p><p>Address 123</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:48.170Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:48.124Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-09MO0P81A</p><p>Address 123</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:48.602Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:48.605Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:42:48.610Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:48.613Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"5\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:42:48.728Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:48.707Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-4LGZL5O0S6</p><p>Address 456</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:48.744Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:48.707Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-4LGZL5O0S6</p><p>Address 456</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:49.127Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:49.130Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:42:49.136Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:49.139Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"3\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:42:49.261Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:49.242Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-0YSZ578JZ</p><p>Address 789</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:49.276Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:49.242Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-0YSZ578JZ</p><p>Address 789</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:49.660Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:49.663Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:42:49.668Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:49.672Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"2\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:42:49.777Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:49.758Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-PXLX75X9EE</p><p>Address 1</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 3</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:49.792Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:49.758Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-PXLX75X9EE</p><p>Address 1</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 3</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:50.111Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:50.113Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:42:50.119Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:50.123Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"1\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:42:50.244Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:50.223Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-T744ENAPR</p><p>Address 2</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 5</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:50.259Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:50.223Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-T744ENAPR</p><p>Address 2</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 5</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:50.613Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:50.616Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:42:50.622Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:50.626Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"6\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:42:50.761Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:50.741Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-NFG9A7S54H</p><p>Address 3</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 6</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:50.786Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:50.741Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-NFG9A7S54H</p><p>Address 3</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 6</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:51.158Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:51.161Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:42:51.165Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:51.169Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"5\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:42:51.297Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:51.279Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-5KCDRGVKHH</p><p>Address 4</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 5</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:51.310Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:42:51.279Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-5KCDRGVKHH</p><p>Address 4</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 5</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:42:51.655Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:51.658Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:42:51.663Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:42:51.666Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"3\",{\"delay\":0}]"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "//*[@id="receipt"]"
+============================================================
+Note: use DEBUG=pw:api environment variable to capture Playwright logs.
+Error
+    at Object.captureStackTrace (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\utils\stackTrace.js:50:19)
+    at Connection.sendMessageToServer (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\connection.js:65:48)
+    at Proxy.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:64:61)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:207:42
+    at Frame._wrapApiCall (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:77:34)
+    at Frame.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:202:21)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:60
+    at Page._attributeToPage (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:238:20)
+    at Page.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:21)
+    at Object.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25394:50)
+    at step (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25367:23)
+    at Object.next (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25348:53)
+    at fulfilled (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25339:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  name: 'TimeoutError'
+}
+=============================================================
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "//*[@id="receipt"]"
+============================================================
+Note: use DEBUG=pw:api environment variable to capture Playwright logs.
+Error
+    at Object.captureStackTrace (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\utils\stackTrace.js:50:19)
+    at Connection.sendMessageToServer (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\connection.js:65:48)
+    at Proxy.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:64:61)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:207:42
+    at Frame._wrapApiCall (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:77:34)
+    at Frame.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:202:21)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:60
+    at Page._attributeToPage (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:238:20)
+    at Page.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:21)
+    at Object.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25394:50)
+    at step (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25367:23)
+    at Object.next (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25348:53)
+    at fulfilled (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25339:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  name: 'TimeoutError'
+}
+=============================================================
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "//*[@id="receipt"]"
+============================================================
+Note: use DEBUG=pw:api environment variable to capture Playwright logs.
+Error
+    at Object.captureStackTrace (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\utils\stackTrace.js:50:19)
+    at Connection.sendMessageToServer (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\connection.js:65:48)
+    at Proxy.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:64:61)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:207:42
+    at Frame._wrapApiCall (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:77:34)
+    at Frame.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:202:21)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:60
+    at Page._attributeToPage (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:238:20)
+    at Page.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:21)
+    at Object.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25394:50)
+    at step (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25367:23)
+    at Object.next (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25348:53)
+    at fulfilled (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25339:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-05-27T08:43:25.580Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:25.555Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-3D11C0V7END</p><p>Address 5</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 3</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:25.594Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:25.555Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-3D11C0V7END</p><p>Address 5</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 3</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:26.181Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:26.183Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:43:26.189Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:26.192Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"2\",{\"delay\":0}]"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "//*[@id="receipt"]"
+============================================================
+Note: use DEBUG=pw:api environment variable to capture Playwright logs.
+Error
+    at Object.captureStackTrace (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\utils\stackTrace.js:50:19)
+    at Connection.sendMessageToServer (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\connection.js:65:48)
+    at Proxy.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:64:61)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:207:42
+    at Frame._wrapApiCall (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:77:34)
+    at Frame.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:202:21)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:60
+    at Page._attributeToPage (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:238:20)
+    at Page.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:21)
+    at Object.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25394:50)
+    at step (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25367:23)
+    at Object.next (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25348:53)
+    at fulfilled (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25339:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-05-27T08:43:37.556Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:37.538Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-1H1LASRUI</p><p>Address 6</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 2</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:37.571Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:37.538Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-1H1LASRUI</p><p>Address 6</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 2</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:37.969Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:37.972Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:43:37.977Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:37.980Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"2\",{\"delay\":0}]"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "//*[@id="receipt"]"
+============================================================
+Note: use DEBUG=pw:api environment variable to capture Playwright logs.
+Error
+    at Object.captureStackTrace (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\utils\stackTrace.js:50:19)
+    at Connection.sendMessageToServer (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\connection.js:65:48)
+    at Proxy.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:64:61)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:207:42
+    at Frame._wrapApiCall (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:77:34)
+    at Frame.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:202:21)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:60
+    at Page._attributeToPage (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:238:20)
+    at Page.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:21)
+    at Object.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25394:50)
+    at step (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25367:23)
+    at Object.next (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25348:53)
+    at fulfilled (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25339:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-05-27T08:43:49.350Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:49.332Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-18UZUKAX34</p><p>Address 7</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 4</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:49.364Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:49.332Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-18UZUKAX34</p><p>Address 7</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 4</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:49.813Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:49.817Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:43:49.822Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:49.825Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"1\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:43:49.935Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:49.917Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-NCUFS7R6P</p><p>Address 8</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 6</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:49.953Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:49.917Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-NCUFS7R6P</p><p>Address 8</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 6</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:50.377Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:50.381Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:43:50.386Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:50.389Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"3\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:43:50.562Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:50.539Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-ZZWLN95QL</p><p>Address 9</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 3</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:50.576Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:50.539Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-ZZWLN95QL</p><p>Address 9</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 3</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:50.921Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:50.923Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:43:50.928Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:50.932Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"4\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:43:51.047Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:51.026Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-CPDK87KBQU</p><p>Address A</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 5</div><div>Legs: 4</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:51.060Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:51.026Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-CPDK87KBQU</p><p>Address A</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 5</div><div>Legs: 4</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:51.465Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:51.468Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:43:51.472Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:51.475Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"5\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:43:51.606Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:51.588Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-LV3UXSV4JT</p><p>Address B</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:51.620Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:51.588Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-LV3UXSV4JT</p><p>Address B</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:51.984Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:51.988Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:43:51.992Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:51.994Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"6\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:43:52.136Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:52.120Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-BWNIP6BMK</p><p>Address C</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 2</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:52.150Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:52.120Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-BWNIP6BMK</p><p>Address C</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 2</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:52.539Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:52.542Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:43:52.546Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:52.550Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"6\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:43:52.667Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:52.649Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-YG591DR3N</p><p>Address D</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 3</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:52.682Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:52.649Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-YG591DR3N</p><p>Address D</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 3</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:53.019Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:53.022Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:43:53.026Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:53.029Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"1\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:43:53.138Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:53.120Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-FFN7BCHNRN</p><p>Address E</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 5</div><div>Body: 4</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:53.154Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:43:53.120Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-FFN7BCHNRN</p><p>Address E</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 5</div><div>Body: 4</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:43:53.462Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:53.466Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:43:53.471Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:43:53.474Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"1\",{\"delay\":0}]"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "//*[@id="receipt"]"
+============================================================
+Note: use DEBUG=pw:api environment variable to capture Playwright logs.
+Error
+    at Object.captureStackTrace (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\utils\stackTrace.js:50:19)
+    at Connection.sendMessageToServer (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\connection.js:65:48)
+    at Proxy.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:64:61)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:207:42
+    at Frame._wrapApiCall (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:77:34)
+    at Frame.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:202:21)
+    at C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:60
+    at Page._attributeToPage (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:238:20)
+    at Page.waitForSelector (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:248:21)
+    at Object.<anonymous> (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25394:50)
+    at step (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25367:23)
+    at Object.next (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25348:53)
+    at fulfilled (C:\Users\gmell\AppData\Local\robocorp\live\27756b90b0f16f8d\lib\site-packages\Browser\wrapper\index.js:25339:58)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-05-27T08:44:04.851Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:44:04.832Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-XI7MVFCL3</p><p>Address F</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 5</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:44:04.865Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:44:04.832Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-XI7MVFCL3</p><p>Address F</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 5</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:44:05.319Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:44:05.322Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:44:05.328Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:44:05.331Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"2\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:44:05.450Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:44:05.433Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-JRO2KH1VQH</p><p>Address G</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 6</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:44:05.466Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:44:05.433Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-JRO2KH1VQH</p><p>Address G</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 6</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:44:05.811Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:44:05.814Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action down with params [\"Tab\"]"}
+{"level":30,"time":"2021-05-27T08:44:05.820Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action up with params [\"Shift\"]"}
+{"level":30,"time":"2021-05-27T08:44:05.823Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Invoking keyboard action type with params [\"5\",{\"delay\":0}]"}
+{"level":30,"time":"2021-05-27T08:44:05.956Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:44:05.934Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-TR5N0P5MA</p><p>Address H</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:44:05.970Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Retrieved dom property for element //*[@id=\"receipt\"] containing <div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2021-05-27T08:44:05.934Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-TR5N0P5MA</p><p>Address H</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div>"}
+{"level":30,"time":"2021-05-27T08:44:06.209Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-27T08:44:06.209Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-27T08:44:06.209Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-27T08:44:06.222Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-27T08:44:06.222Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-27T08:44:06.222Z","pid":17704,"hostname":"DESKTOP-NK68GFO","msg":"Changed active page"}
